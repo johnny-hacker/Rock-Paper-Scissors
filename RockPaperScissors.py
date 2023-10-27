@@ -1,6 +1,5 @@
-# Program 6 exercise # 12
 # Programmer: Olmedo, Johnny
-# CSC119-141
+
 # Submission date: 10/06/2019 
 # This program lets you play rock paper scissors with the computer
 import random 
